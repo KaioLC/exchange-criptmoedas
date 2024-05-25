@@ -85,6 +85,18 @@
   </p>
 
   ### 2.6 Vender criptomoedas
-  <p align="center">
+   <p align="center">
+     A opção número 6 permite que o usuário venda suas criptomoedas, para acessá-la é pedido a senha cadastrada do usuário, feito isso será mostrado a seguinte tela:
+     <br><br>
+     <img src=https://github.com/KaioLC/exchange-criptmoedas/assets/170814907/47218431-e68c-46a6-8a47-82d5169688e8>
+     <br>
+     Nela é possível ver a cotação atual de cada moeda, junto da quantidade unitária de moedas possuidas pelo usuário, ao escolher a opção da moeda desejada, será pedido a quantidade em R$ que o usuário pretende 
+     vender da sua moeda, após selecionar uma quantia válida, é mostrado a mesma tela da imagem anterior, porém agora a quantidade da moeda escolhida está atualizada após a venda:
+     <br><br>
+     <img src=https://github.com/KaioLC/exchange-criptmoedas/assets/170814907/41409229-471b-4892-a852-829471e9c652>
+   </p>
   
-  </p>
+### 2.7 Atualizar cotação
+ <p align="center">
+   
+ </p>
