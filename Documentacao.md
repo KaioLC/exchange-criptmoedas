@@ -1,6 +1,9 @@
 # Projeto - Exchange de Criptomoedas
 ## Resumo
-  Esse programa foi feito para simular um aplicativo de compra e vendas de criptomoedas,
+  Esse programa foi feito para simular um aplicativo de compras e vendas de criptomoedas, nele é possível realizar diversas ações como, cadastrar
+  novos usuários, efetuar o login, realizar o depósito da moeda REAL, sacar uma quantia dessa moeda igual ou inferior à que possui na 
+  conta, também é possível utilizar dessa moeda REAL para realizar a compra das criptomoedas disponíveis no programa, após a compra de 
+  qualquer criptomoeda, é possível vende-las, cada uma dessas ações citadas a cima ficam gravadas na aba "Consultar
 
 ## Funcionamento
   ### 1. Pagina inicial do programa
