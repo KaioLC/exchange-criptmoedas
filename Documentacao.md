@@ -42,13 +42,16 @@
      Ao selecionar essa opção, é pedido a senha do usuário para conseguir visualizar o saldo, caso a senha seja inserida corretamente a tela com o saldo de todas as moedas
      será exibida para o usuário:
      <br><br>
-      <img src=https://github.com/KaioLC/exchange-criptmoedas/assets/170814907/8c4fe11b-f765-4fb8-8839-84bf708b78ed>
+      <img src=https://github.com/KaioLC/exchange-criptmoedas/assets/170814907/1d727111-baaa-4ea1-b1a4-2d3cf8cf267e>
    </p>
 
    ### 2.2 Consultar extrato
    <p align="center">
-     Ao selecionar a opção 2, o usuário será direcionado para a tela de consultar extrato, nela você pode chegar o seu histórico de ações como, deposito, saque, compra e venda,
-     também é mostrado a data e a hora que foi realizado essas operações, dependendo da ação é informada a taxa cobrada junto com o saldo atualizado com a taxa.
+     Ao selecionar a opção 2, o usuário será direcionado para a tela de consultar extrato, onde será pedido a senha cadastrada pelo usuário, após inserir a senha corretamente
+     o usuário checar o seu histórico de ações como, deposito, saque, compra e venda também é mostrado a data e a hora que foi realizado essas operações, 
+     dependendo da ação é informada a taxa cobrada junto com o saldo atualizado com a taxa:
+     <img src=https://github.com/KaioLC/exchange-criptmoedas/assets/170814907/3309b4c6-babd-40ac-b775-113334833d6d>
+
    </p>
 
    ### 2.3 Depositar
@@ -98,5 +101,14 @@
   
 ### 2.7 Atualizar cotação
  <p align="center">
-   
+   Ao selecionar a opção número 7, será atualizada a cotação de todas as criptomoedas, variando o preço em -5% até +5% do seu valor atual, logo em seguida exibindo a cotação atualizada de cada criptomoeda
+   <br><br>
+   <img src=https://github.com/KaioLC/exchange-criptmoedas/assets/170814907/b3264637-6de9-4fde-bf6a-fe088becdfb0>
+   <br>
+   Isso é feito de forma automática, então o usuário só precisa digitar a opção de número 7 que já será feito o processo de atualização das cotas.
  </p>
+
+ ### 2.8 Sair
+   <p align="center">
+     Essa opção é usada para encerrar o serviço, finalizando a interação com o usuário e fechando o programa.
+  
