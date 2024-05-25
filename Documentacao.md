@@ -48,7 +48,7 @@
    ### 2.2 Consultar extrato
    <p align="center">
      Ao selecionar a opção 2, o usuário será direcionado para a tela de consultar extrato, onde será pedido a senha cadastrada pelo usuário, após inserir a senha corretamente
-     o usuário checar o seu histórico de ações como, deposito, saque, compra e venda também é mostrado a data e a hora que foi realizado essas operações, 
+     o usuário pode checar o seu histórico de ações como, deposito, saque, compra e venda, também é mostrado a data e a hora que foi realizado essas operações, 
      dependendo da ação é informada a taxa cobrada junto com o saldo atualizado com a taxa:
      <img src=https://github.com/KaioLC/exchange-criptmoedas/assets/170814907/3309b4c6-babd-40ac-b775-113334833d6d>
 
@@ -76,7 +76,7 @@
   
   ### 2.5 Comprar criptomoedas
   <p align="center">
-    Opção de número 5 é usada para efetuar a compra de criptomoedas, ao selecionar essa opção o usuário deve digitar a senha cadastrada, após inserir corretameente a senha será exibida a seguinte tela:
+    Opção de número 5 é usada para efetuar a compra de criptomoedas, ao selecionar essa opção o usuário deve digitar a senha cadastrada, após inserir corretamente a senha, será exibida a seguinte tela:
     <br><br>
     <img src=https://github.com/KaioLC/exchange-criptmoedas/assets/170814907/3d1ad2dd-4cf1-4149-bec7-1dc2a2eb1458>
     <br>
@@ -110,5 +110,5 @@
 
  ### 2.8 Sair
    <p align="center">
-     Essa opção é usada para encerrar o serviço, finalizando a interação com o usuário e fechando o programa.
+     Essa opção é a última opção, ela é usada para encerrar o serviço, finalizando a interação com o usuário e fechando o programa.
   
