@@ -3,7 +3,8 @@
   Esse programa foi feito para simular um aplicativo de compras e vendas de criptomoedas, nele é possível realizar diversas ações como, cadastrar
   novos usuários, efetuar o login, realizar o depósito da moeda REAL, sacar uma quantia dessa moeda igual ou inferior à que possui na 
   conta, também é possível utilizar dessa moeda REAL para realizar a compra das criptomoedas disponíveis no programa, após a compra de 
-  qualquer criptomoeda, é possível vende-las, cada uma dessas ações citadas a cima ficam gravadas na aba "Consultar
+  qualquer criptomoeda, é possível vende-las, cada uma dessas ações citadas acima ficam gravadas na aba "Consultar Extrato", o programa também
+  possui o mecanismo e atualizar cotação de moeda, onde ele varia valor da moeda em -5% a +5% do seu valor padrão 
 
 ## Funcionamento
   ### 1. Pagina inicial do programa
